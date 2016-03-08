@@ -1,0 +1,9 @@
+c:\users\madam tahira\documents\visual studio 2012\Projects\LA+Syn\LA+Syn\bin\Debug\LA+Syn.exe.config
+C:\Users\MADAM TAHIRA\Documents\Visual Studio 2012\Projects\LA+Syn\LA+Syn\obj\Debug\LA+Syn.csprojResolveAssemblyReference.cache
+C:\Users\MADAM TAHIRA\Documents\Visual Studio 2012\Projects\LA+Syn\LA+Syn\bin\Debug\LA+Syn.exe
+C:\Users\MADAM TAHIRA\Documents\Visual Studio 2012\Projects\LA+Syn\LA+Syn\bin\Debug\LA+Syn.pdb
+C:\Users\MADAM TAHIRA\Documents\Visual Studio 2012\Projects\LA+Syn\LA+Syn\obj\Debug\LA+Syn.exe
+C:\Users\MADAM TAHIRA\Documents\Visual Studio 2012\Projects\LA+Syn\LA+Syn\obj\Debug\LA+Syn.pdb
+H:\LaptopBackup\Documents\Visual Studio 2012\Projects\LA+Syn\LA+Syn\bin\Debug\LA+Syn.exe.config
+H:\LaptopBackup\Documents\Visual Studio 2012\Projects\LA+Syn\LA+Syn\obj\Debug\LA+Syn.exe
+H:\LaptopBackup\Documents\Visual Studio 2012\Projects\LA+Syn\LA+Syn\obj\Debug\LA+Syn.pdb
